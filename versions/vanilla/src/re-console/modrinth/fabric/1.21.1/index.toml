@@ -278,11 +278,6 @@ hash = "7d421e73ca800856cd68f151ca579f5866b09f8fd9a9b42654cfa99fe5c7174c"
 metafile = true
 
 [[files]]
-file = "mods/calcmod.pw.toml"
-hash = "77c88fc2f3c4d3a17c329e83ac40ea091410fa1f0b5ba5d812beb8e9c30e26cb"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
 metafile = true
