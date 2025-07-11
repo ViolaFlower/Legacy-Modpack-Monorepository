@@ -1,0 +1,13 @@
+name = "Re-Console"
+author = "omo50"
+version = "2.2.0+mc1.21.5+neoforged"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "924f2486e566d051e3e8f57a77ff181152683f0649ced5670404eea677465183"
+
+[versions]
+minecraft = "1.21.5"
+neoforge = "21.5.75"
